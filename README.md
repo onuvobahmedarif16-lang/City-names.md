@@ -1,7 +1,5 @@
 # City-names.md
 High populated cities of USA.
-Here you go — a **working to-do list (checkbox) format** with **100 highly populated cities**. You can copy-paste this into Markdown, Notion, GitHub, Obsidian, etc., and the checkboxes will work.
-
 * [ ] Tokyo — Japan
 * [ ] Delhi — India
 * [ ] Shanghai — China
@@ -102,5 +100,3 @@ Here you go — a **working to-do list (checkbox) format** with **100 highly pop
 * [ ] Da Nang — Vietnam
 * [ ] Taipei — Taiwan
 * [ ] Kaohsiung — Taiwan
-
-If you want this **ranked strictly by population**, **limited to one country**, or exported for a specific app (Notion, Excel, Google Docs), tell me where you’re using it and I’ll tailor it.
