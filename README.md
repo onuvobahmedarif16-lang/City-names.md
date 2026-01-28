@@ -1,6 +1,6 @@
 # City-names.md
 High populated cities of USA.
-* [ ] Tokyo — Japan
+- [ ] Tokyo — Japan
 * [ ] Delhi — India
 * [ ] Shanghai — China
 * [ ] Dhaka — Bangladesh
